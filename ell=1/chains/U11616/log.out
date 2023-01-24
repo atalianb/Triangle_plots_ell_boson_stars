@@ -1,0 +1,18 @@
+Initalizing nu density look up table... Done
+Loading  simplemc/data/Blok_McGaugh_&_Rubin_(2001)/U11616.dat
+INFO:simplemc:simplemc/chains/Rotation_phy_RC_nested_dynesty_multi file already exists, simplemc/chains/Rotation_phy_RC_nested_dynesty_multi_new was created
+INFO:simplemc:simplemc/chains/Rotation_phy_RC_nested_dynesty_multi_new file already exists, simplemc/chains/Rotation_phy_RC_nested_dynesty_multi_new_new was created
+INFO:simplemc:Using 2 processors of 8 .
+INFO:simplemc:
+	nlivepoints: 100
+	accuracy: 0.02
+	nested type: multi
+	engine: dynesty
+it: 1366 | ncall: 5922 | eff: 23.083 | logz: -62.6775 | dlogz: 0.0201 | loglstar: -53.0055 | point -23.18382209  -3.2611082933217706
+Summary
+=======
+nlive: 100
+niter: 1366
+ncall: 5922
+eff(%): 24.772
+logz: -62.658 +/-  0.417
