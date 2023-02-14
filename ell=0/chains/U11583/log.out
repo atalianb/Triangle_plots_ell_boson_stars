@@ -1,0 +1,18 @@
+/Users/atalianb/Documents/Doctorado/SimpleMC_i/simplemc/cosmo/paramDefs.py:162: RuntimeWarning: invalid value encountered in log10
+  rs_par =   Parameter("rs",  np.log10(1.5-4), 0.01, (np.log10(1.0e-5), np.log10(5.0e-3)), "r_s")
+Initalizing nu density look up table... Done
+Loading  simplemc/data/data_used_by_Tula/U11583.dat
+INFO:simplemc:Using 2 processors of 8 .
+INFO:simplemc:
+	nlivepoints: 200
+	accuracy: 0.02
+	nested type: multi
+	engine: dynesty
+it: 2054 | ncall: 10339 | eff: 19.876 | logz: -6.5946 | dlogz: 0.0200 | loglstar: -0.2708 | point -22.12950881  -3.8306061 9272333
+Summary
+=======
+nlive: 200
+niter: 2054
+ncall: 10339
+eff(%): 21.811
+logz: -6.575 +/-  0.227

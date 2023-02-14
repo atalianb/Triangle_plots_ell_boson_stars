@@ -1,0 +1,16 @@
+Initalizing nu density look up table... Done
+Loading  simplemc/data/Blok_McGaugh_&_Rubin_(2001)/U4115.dat
+INFO:simplemc:Using 2 processors of 8 .
+INFO:simplemc:
+	nlivepoints: 100
+	accuracy: 0.02
+	nested type: multi
+	engine: dynesty
+it: 969 | ncall: 5393 | eff: 17.986 | logz: -5.7682 | dlogz: 0.0201 | loglstar: -0.0515 | point -22.39958983  -3.66868203915437677 761
+Summary
+=======
+nlive: 100
+niter: 969
+ncall: 5393
+eff(%): 19.841
+logz: -5.749 +/-  0.310

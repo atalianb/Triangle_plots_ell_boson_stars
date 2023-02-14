@@ -1,0 +1,16 @@
+Initalizing nu density look up table... Done
+Loading  simplemc/data/data_used_by_Tula/U11748.dat
+INFO:simplemc:Using 2 processors of 8 .
+INFO:simplemc:
+	nlivepoints: 100
+	accuracy: 0.02
+	nested type: multi
+	engine: dynesty
+it: 1538 | ncall: 6349 | eff: 24.240 | logz: -122.4400 | dlogz: 0.0202 | loglstar: -111.0572 | point -23.69140132  -2.91807545221576
+Summary
+=======
+nlive: 100
+niter: 1538
+ncall: 6349
+eff(%): 25.815
+logz: -122.420 +/-  0.455
